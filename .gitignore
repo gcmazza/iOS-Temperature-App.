@@ -1,0 +1,14 @@
+# Standard Xcode .gitignore
+.DS_Store
+build/
+*.swp
+*.swo
+DerivedData/
+*.hmap
+*.ipa
+*.xcuserstate
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+*.xcodeproj/
+*.xcworkspace/
